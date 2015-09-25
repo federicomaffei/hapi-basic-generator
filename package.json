@@ -1,0 +1,17 @@
+{
+  "name": "generator-hapi-basic",
+  "version": "1.0.0",
+  "description": "yeoman generator for basic hapi.js server structure",
+  "main": "index.js",
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Federico Maffei",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^0.20.3"
+  }
+}
