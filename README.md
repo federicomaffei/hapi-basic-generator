@@ -9,7 +9,9 @@ This repo contains a Yeoman generator that allow to scaffold a very simple Hapi 
 ## Generator Installation & Project Scaffolding
 
 ```npm install -g generator-hapi-basic```
+
 ```mkdir my-hapi-project```
+
 ```yo hapi-basic```
 
 ## Running the application
