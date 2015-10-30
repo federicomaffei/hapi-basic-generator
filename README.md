@@ -1,6 +1,6 @@
 ## Basic Hapi Yeoman Generator
 
-This repo contains a Yeoman generator that allow to scaffold a very simple Hapi server client, with one route for the root path, easily runnable with one command.
+This repo contains a Yeoman generator that allow to scaffold a very simple Hapi server client, with one route for the root path, easily runnable with one command. Tests coming soon.
 
 ## Yeoman Installation
 
@@ -19,7 +19,6 @@ This repo contains a Yeoman generator that allow to scaffold a very simple Hapi 
 ```npm start```
 
 App will be available on [localhost](http://localhost:3000).
-
 
 ## Tests
 
